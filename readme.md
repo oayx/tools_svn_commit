@@ -1,4 +1,4 @@
-##使用方式    
+## 使用方式    
 1、目标路径必须是在svn上  
 2、传入的参数格式，如path="c:/aaa",limit=123,message="aabb",logfile=1,loglv=1  
 path 目录路径  
