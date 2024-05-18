@@ -1,11 +1,11 @@
-1、不能删除文件
-2、目标路径必须是在svn上
-3、传入的参数格式：
-	/// <summary>
-	/// 解析传入参数，如path="c:/aaa",limit=123,message="aabb",logfile=1,loglv=1
-	/// path	目录路径
-	/// limit同时提交文件数量
-	/// message备注
-	/// logfile是否写入文件，0不写入，非0写入
-	/// loglv日志等级，可以是0，1，2，3，4；0所有日志激活，4所有日志关闭
-	/// </summary>
+1、不能删除文件  
+2、目标路径必须是在svn上  
+3、传入的参数格式：  
+	/// <summary>  
+	/// 解析传入参数，如path="c:/aaa",limit=123,message="aabb",logfile=1,loglv=1  
+	/// path	目录路径  
+	/// limit同时提交文件数量  
+	/// message备注  
+	/// logfile是否写入文件，0不写入，非0写入  
+	/// loglv日志等级，可以是0，1，2，3，4；0所有日志激活，4所有日志关闭  
+	/// </summary>  
